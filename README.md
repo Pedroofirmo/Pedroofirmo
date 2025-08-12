@@ -13,10 +13,3 @@
 </div>
 
 <br>
-
-<div>
-  <a href = "#"><img src="" target="_blank"></a>
-  <a href="#" target="_blank"><img src="#" target="_blank"></a> 
-</div>
-
-
