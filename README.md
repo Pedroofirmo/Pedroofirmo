@@ -1,4 +1,4 @@
-## Olá, Eu sou O João Pedro Firmo!
+## Olá, Eu sou João Pedro Firmo!
 
 <a href="https://github.com/Pedroofirmo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroofirmo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
