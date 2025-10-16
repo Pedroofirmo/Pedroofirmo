@@ -12,6 +12,7 @@
   <img align="center" alt="pedro-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="pedro-c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="pedro-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="pedro-ino" height="30" width="40" src="https://raw.githubusercontent.com/philanri/arduino-icons/main/svg/arduino_uno.svg">
 </div>
 
 <br>
