@@ -8,11 +8,13 @@
   </a>
 </div>
 
-
-<a href="https://github.com/Pedroofirmo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroofirmo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroofirmo&layout=compact&langs_count=16&theme=dracula" />
-</a>
+<div margin-top="30px">
+  <a href="https://github.com/Pedroofirmo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroofirmo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroofirmo&layout=compact&langs_count=16&theme=dracula" />
+  </a>
+</div>
+  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
