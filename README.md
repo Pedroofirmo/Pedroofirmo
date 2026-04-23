@@ -23,12 +23,42 @@
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🛠️ Tecnologias  
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Stack Principal
 <p>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=cyan"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow"/><br>
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=cyan"/><br>
+  <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=orange"/><br>
+  <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=blue"/><br>
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&logoColor=pink"/>
 </p>
+
+</td>
+
+<td width="50%">
+
+### 📊 Nível de conhecimento
+
+JavaScript  
+![JS](https://progress-bar.dev/80/?title=&width=300)
+
+React  
+![React](https://progress-bar.dev/70/?title=&width=300)
+
+HTML  
+![HTML](https://progress-bar.dev/90/?title=&width=300)
+
+CSS  
+![CSS](https://progress-bar.dev/85/?title=&width=300)
+
+Python  
+![Python](https://progress-bar.dev/60/?title=&width=300)
+
+</td>
+</tr>
+</table>
