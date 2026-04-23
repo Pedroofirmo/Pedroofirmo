@@ -1,9 +1,9 @@
 ## Olá, Eu sou João Pedro Firmo!
 <div>
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <a href="www.linkedin.com/in/joão-pedro-firmo-de-sousa-a6a07a287" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:joaopedrofirmodesousa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
