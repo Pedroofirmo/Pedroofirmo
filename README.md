@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Pedro Firmo   
+# 👋 Olá, eu sou João Pedro 
 
 ---
 
@@ -24,9 +24,11 @@
 ---
 
 ## 🚀 Tecnologias que utilizo
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=cyan"/>
+  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&logoColor=pink"/>
+</p>
