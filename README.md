@@ -28,6 +28,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
