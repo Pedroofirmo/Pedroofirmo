@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Pedro 
+# Olá, eu sou João Pedro 👋
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 Minhas Estatísticas 
 <div>
   <a href="https://github.com/Pedroofirmo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroofirmo&layout=compact&langs_count=8&theme=dracula"/>
