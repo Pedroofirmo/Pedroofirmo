@@ -14,15 +14,6 @@
 
 ---
 
-## 📊 Minhas Estatísticas 
-<div>
-  <a href="https://github.com/Pedroofirmo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroofirmo&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ## 🚀 Tecnologias que utilizo
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow"/>
