@@ -21,7 +21,7 @@
 🎨 Foco em UI/UX e experiência do usuário  
 🧩 Organização de código e boas práticas  
 🔗 Integração com APIs  
-🚀 Criação de landing pages
+🚀 Criação de landing pages <br>
 📚 Aprendizado contínuo em tecnologia  
 
 
