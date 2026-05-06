@@ -22,7 +22,6 @@
 🧩 Organização de código e boas práticas  
 🔗 Integração com APIs  
 🚀 Criação de landing pages
-📊 Estruturação de páginas com foco em usabilidade  
 📚 Aprendizado contínuo em tecnologia  
 
 ---
