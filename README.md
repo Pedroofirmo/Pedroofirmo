@@ -15,6 +15,19 @@
 
 ---
 
+## 🧠 O que eu faço
+
+💻 Desenvolvimento de interfaces web  
+📱 Criação de layouts responsivos (Mobile First)  
+🎨 Foco em UI/UX e experiência do usuário  
+🧩 Organização de código e boas práticas  
+🔗 Integração com APIs  
+🚀 Criação de landing pages 
+📊 Estruturação de páginas com foco em usabilidade  
+📚 Aprendizado contínuo em tecnologia  
+
+---
+
 ## 🛠️ Tecnologias
 
 ### Frontend
@@ -27,6 +40,8 @@
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
 
 ### Ferramentas
 
@@ -36,13 +51,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
-
----
-
-## 📌 Projetos
-
-🔗 https://SEU-PROJETO.vercel.app
-💻 https://github.com/SEU-USUARIO
 
 ---
 
