@@ -24,6 +24,7 @@
 🚀 Criação de landing pages
 📚 Aprendizado contínuo em tecnologia  
 
+
 ---
 
 ## 🛠️ Tecnologias
